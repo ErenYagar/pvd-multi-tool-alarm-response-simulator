@@ -1,0 +1,1 @@
+{"name":"PvdSim.Editor","references":["PvdSim.Core","PvdSim.Runtime"],"includePlatforms":["Editor"]}

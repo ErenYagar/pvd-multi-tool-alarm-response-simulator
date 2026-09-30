@@ -1,0 +1,1 @@
+{"name":"PvdSim.Tests","references":["PvdSim.Core","PvdSim.Runtime","PvdSim.Editor"],"includePlatforms":["Editor"],"optionalUnityReferences":["TestAssemblies"]}
